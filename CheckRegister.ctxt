@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CheckRegister
+comment0.text=\n\ A\ check\ register\ for\ a\ checking\ account.\ \n\ This\ register\ will\ only\ accept\ debits,\ not\ credits.\n\ This\ register\ will\ only\ contain\ up\ to\ 50\ checks.\n\ The\ register\ will\ maintain\ a\ running\ balance.\n\ \n\ @author\ Dennis\ Connor\n\ @version\ 5\ June\ 2017\n
+comment1.params=
+comment1.target=CheckRegister()
+comment1.text=\n\ Create\ a\ check\ register\ for\ a\ checking\ account.\ \n
+numComments=2
